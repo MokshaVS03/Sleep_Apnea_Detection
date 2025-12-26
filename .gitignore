@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML / Data
+*.pt
+*.h5
+*.pkl
+*.dat
+*.csv
+
+# OS
+.DS_Store
